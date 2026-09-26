@@ -1,13 +1,10 @@
-```text
-Full-Stack Engineer • Slaying latency & legacy debt 
-```
+# Full-Stack Engineer
+
 
 <p align="left">
   <a href="https://albertjonathan.dev/"><img src="https://img.shields.io/badge/Portfolio-albertjonathan.dev-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/albertjonathan3"><img src="https://img.shields.io/badge/LinkedIn-Albert%20Jonathan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
----
 
 ## 📊 By The Numbers (GitHub Analytics)
 
@@ -19,8 +16,6 @@ Full-Stack Engineer • Slaying latency & legacy debt
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jo-bert&theme=github_dark" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jo-bert&theme=github_dark" alt="Most Commit Language" />
 </p>
-
----
 
 ## 📖 My Career so Far
 
@@ -36,8 +31,6 @@ Full-Stack Engineer • Slaying latency & legacy debt
 - **Phase 3: Regulated Banking & Leading Teams (Accenture Malaysia)**  
   Today, I'm an Assistant Lead and acting frontend lead for one of the largest consulting companies in the world. My day-to-day is turning complex, regulated digital loan applications and onboarding flows into fast, resilient software. I integrate Singapore Government APIs (Singpass / MyInfo), refactor 30k-user legacy React codebases down by ~50% with Vite and Tailwind, build Spring Boot microservices, and coach junior engineers so our squads ship cleaner code, faster with the domain knowledge needed to deliver tasks based on requirements.
 
----
-
 ## ⚡ What I Build For Fun (The Hackathon Ritual)
 
 Once a year, I jump into hackathons to break out of enterprise patterns and build fast, scrappy software with modern primitives:
@@ -45,15 +38,13 @@ Once a year, I jump into hackathons to break out of enterprise patterns and buil
 - **The Great Malaysia AI Hackathon 2025 (`Team LARP`)**: Built a Chrome extension that scrapes LinkedIn job postings and rewrites your resume LaTeX source on AWS using LLMs in under 30 seconds to bridge the skill gap.
 - **Superteam Solana Hackathon 2024 (`Yankee Swap`)**: Built a cross-chain DeFi yield routing interface using Wormhole so Solana users could tap into EVM yield (Aave, Pendle) without jumping between fragmented chain bridges.
 
----
-
 ## 🛠️ The Working Stack (Honest Opinions Included)
 
 | Domain | What I Reach For | Thoughts |
 | :--- | :--- | :--- |
-| **Frontend** | React, Preact, TypeScript, Tailwind v4, Vite | Preact + Vite is my favorite lightweight combo when bundle size actually matters. |
+| **Frontend** | React, Preact, TypeScript, Tailwind v4, Vite, Vue, Nuxt, Svelte | Vue + Vite is my favorite lightweight combo with good DX and library ecosystem. |
 | **Backend** | Spring Boot, Laravel 11, Node.js | Spring Boot when enterprise stability and typing are sacred; Laravel when you want to build and ship an entire product before lunch. |
-| **Datastores & Infra** | PostgreSQL, Redis, Docker, Cloudflare | Keep the relational model clean, cache aggressively with Redis, containerize everything. |
+| **Datastores & Infra** | PostgreSQL, MariaDB, Redis, Docker, Cloudflare | Keep the relational model clean, cache aggressively with Redis, containerize everything. |
 | **Code Hygiene** | Oxlint, Eslint, SonarQube | Deliver fast with less code smell and bugs and more standardized way of interpreting code. |
 
 ---
