@@ -41,4 +41,3 @@ Quality:      Oxlint, SonarQube, Veracode, Vitest, Jest
                                                                                                                                                                                                                      
  - 🌐 Portfolio & Guides: albertjonathan.dev (https://albertjonathan.dev/)                                                                                                                                           
  - 💼 LinkedIn: linkedin.com/in/albertjonathan3 (https://linkedin.com/in/albertjonathan3)                                                                                                                      
- ```                                          
