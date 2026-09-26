@@ -42,15 +42,6 @@ Based in Kuala Lumpur, Malaysia 🇲🇾
 
 ---
 
-## 🥍 Lacrosse Sixes
-
-When I close my laptop, I play **Lacrosse Sixes** for the Malaysia Lacrosse Federation and officiate international matches as an **APLU-certified D1 Referee**.
-
-People ask why an engineer would spend weekends running across a turf field with a whistle, dodging flying rubber balls. The truth? **Refereeing a high-speed Sixes match is basically live incident management.** 
-You have 10 athletes sprinting at full speed, split-second collision rules to enforce, zero replay button, and coaches yelling in your ear. Sometimes I play as a player and get scolded for not performing well too, or outpaced by others during warmups and scrimmages.
-
----
-
 ## ⚡ What I Build For Fun (The Hackathon Ritual)
 
 Once a year, I jump into hackathons to break out of enterprise patterns and build fast, scrappy software with modern primitives:
@@ -79,12 +70,3 @@ Once a year, I jump into hackathons to break out of enterprise patterns and buil
 | [**personal-web**](https://github.com/jo-bert/personal-web) | Preact 10 • Tailwind v4 • Vite • TypeScript | High-performance personal platform with an ultra-lean bundle size (~**32 kB** gzipped JS) and sub-second load times. |
 | [**Curated Web Tools**](https://albertjonathan.dev/#tools) | Preact • Web APIs • Tailwind | Privacy-first, client-side open-source directory of web utilities, desktop apps, and dev tools without ads or telemetry. |
 
----
-
-## ☕ Let's Chat
-
-Always up for conversations about web development and lacrosse.
-
-- 🌐 **Web**: [albertjonathan.dev](https://albertjonathan.dev)
-- 💼 **LinkedIn**: [linkedin.com/in/albertjonathan3](https://linkedin.com/in/albertjonathan3)
-- 📬 **Email**: [albert.jonathan23@gmail.com](mailto:albert.jonathan23@gmail.com)
