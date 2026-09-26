@@ -1,4 +1,4 @@
-# Hi there, I'm Albert Jonathan (陈) 👋
+# Hi there, I'm Albert Jonathan 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-albertjonathan.dev-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://albertjonathan.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Falbertjonathan3-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertjonathan3)
