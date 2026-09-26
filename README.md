@@ -11,30 +11,28 @@ Based in Kuala Lumpur, Malaysia 🇲🇾
 
 ---
 
-### 📖 The Nonlinear Journey (Or: How I Got Here)
-
-If my personal website is my formal CV, think of this page as the unfiltered developer changelog of how I actually learned to build software that doesn't break in production.
+### 📖 My Career so Far
 
 - **Phase 0: The FinTech Sandbox (Deriv / Binary.com)**  
-  Started out bridging quantitative developers and external third-party engineers wrestling with public trading APIs. Nothing teaches you API design faster than answering questions from frustrated developers at 2 AM trying to execute live binary options trades over WebSockets.
+  Started out bridging quantitative and backend developers with external third-party engineers on using Deriv's public trading APIs. Involved in some marketing campaign too but mostly DevRel jobs before DevRel title was popular.
 
 - **Phase 1: Deep in the E-Commerce Trenches (Photobook Worldwide)**  
-  Three years handling millions in personalized photo orders across global checkout funnels. Learned what real scale feels like: diagnosing checkout bugs in Kibana logs on Friday nights, shaving 3 full seconds off response latency by caching database queries in Redis, and rewriting legacy Laravel shipping engines to cut 20% off physical logistics costs.
+  Three years handling millions in personalized photo orders across global checkout funnels. Learned what real scale feels like: building a complicated user interface using React, diagnosing checkout bugs in Kibana logs, shaving 3 full seconds off response latency by caching database queries in Redis, and rewriting legacy Laravel shipping engines to cut 20% off physical logistics costs.
 
 - **Phase 2: The Svelte, DeFi & High-Performance Detour**  
   Took side routes through Web3 (routing cross-chain liquidity on Polygon via Aave) and consulting gigs where I migrated heavy Vue codebases into Svelte just to see that elusive **100 Lighthouse** score across the board.
 
 - **Phase 3: Regulated Banking & Leading Teams (Accenture Malaysia)**  
-  Today, I'm an Assistant Lead and acting frontend lead for a Tier-1 Singapore bank. My day-to-day is turning complex, regulated digital loan applications and onboarding flows into fast, resilient software. I integrate Singapore Government APIs (Singpass / MyInfo), refactor 30k-user legacy React codebases down by ~50% with Vite and Tailwind, build Spring Boot microservices, and coach junior engineers so our squads ship cleaner code, faster.
+  Today, I'm an Assistant Lead and acting frontend lead for one of largest consulting company in the world. My day-to-day is turning complex, regulated digital loan applications and onboarding flows into fast, resilient software. I integrate Singapore Government APIs (Singpass / MyInfo), refactor 30k-user legacy React codebases down by ~50% with Vite and Tailwind, build Spring Boot microservices, and coach junior engineers so our squads ship cleaner code, faster with domain knowledge equipped to deliver tasks based on requirements.
 
 ---
 
-### 🥍 The Unofficial Incident Response: Lacrosse Sixes
+### 🥍 Lacrosse Sixes
 
 When I close my laptop, I play **Lacrosse Sixes** for the Malaysia Lacrosse Federation and officiate international matches as an **APLU-certified D1 Referee**.
 
 People ask why an engineer would spend weekends running across a turf field with a whistle, dodging flying rubber balls. The truth? **Refereeing a high-speed Sixes match is basically live incident management.** 
-You have 10 athletes sprinting at full speed, split-second collision rules to enforce, zero replay button, and coaches yelling in your ear. It turns out that remaining completely calm while making high-stakes, real-time calls on the pitch makes enterprise release calls and production rollbacks feel remarkably relaxed.
+You have 10 athletes sprinting at full speed, split-second collision rules to enforce, zero replay button, and coaches yelling in your ear. Sometimes I play as a player get scolded for not performing well too and outpaced by others during warump or scrimmages.
 
 ---
 
@@ -51,10 +49,10 @@ Once a year, I jump into hackathons to break out of enterprise patterns and buil
 
 | Domain | What I Reach For | Thoughts |
 | :--- | :--- | :--- |
-| **Frontend** | React, Preact, TypeScript, Tailwind v4, Vite | Preact + Vite is my favorite lightweight combo when bundle size actually matters. |
+| **Frontend** | React, Preact, TypeScript, Tailwind v4, Vite | Svelte + Vite is my favorite lightweight combo when bundle size actually matters. |
 | **Backend** | Spring Boot, Laravel 11, Node.js | Spring Boot when enterprise stability and typing are sacred; Laravel when you want to build and ship an entire product before lunch. |
 | **Datastores & Infra** | PostgreSQL, Redis, Docker, Cloudflare | Keep the relational model clean, cache aggressively with Redis, containerize everything. |
-| **Code Hygiene** | Oxlint, AST anti-slop rules, SonarQube | Life is too short for slow linters or unvetted AI copy-paste code. |
+| **Code Hygiene** | Oxlint, SonarQube | Deliver fast with less code smell and bugs |
 
 ---
 
@@ -68,7 +66,7 @@ Once a year, I jump into hackathons to break out of enterprise patterns and buil
 
 ### ☕ Let's Chat
 
-Always up for conversations about frontend architecture, legacy migrations, high-speed sports, or shipping useful side projects.
+Always up for conversations about web development and lacrosse
 
 - 🌐 **Web**: [albertjonathan.dev](https://albertjonathan.dev)
 - 💼 **LinkedIn**: [linkedin.com/in/albertjonathan3](https://linkedin.com/in/albertjonathan3)
