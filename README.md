@@ -1,7 +1,5 @@
-# Hey, I'm Albert Jonathan (陈) 👋
-
 ```text
-Full-Stack Engineer • Slaying latency & legacy debt • Lacrosse Sixes D1 Ref
+Full-Stack Engineer • Slaying latency & legacy debt 
 Based in Kuala Lumpur, Malaysia 🇲🇾
 ```
 
@@ -55,10 +53,10 @@ Once a year, I jump into hackathons to break out of enterprise patterns and buil
 
 | Domain | What I Reach For | Thoughts |
 | :--- | :--- | :--- |
-| **Frontend** | React, Preact, TypeScript, Tailwind v4, Vite | Svelte + Vite is my favorite lightweight combo when bundle size actually matters. |
+| **Frontend** | React, Preact, TypeScript, Tailwind v4, Vite | Preact + Vite is my favorite lightweight combo when bundle size actually matters. |
 | **Backend** | Spring Boot, Laravel 11, Node.js | Spring Boot when enterprise stability and typing are sacred; Laravel when you want to build and ship an entire product before lunch. |
 | **Datastores & Infra** | PostgreSQL, Redis, Docker, Cloudflare | Keep the relational model clean, cache aggressively with Redis, containerize everything. |
-| **Code Hygiene** | Oxlint, SonarQube | Deliver fast with less code smell and bugs. |
+| **Code Hygiene** | Oxlint, Eslint, SonarQube | Deliver fast with less code smell and bugs and more standardized way of interpreting code. |
 
 ---
 
