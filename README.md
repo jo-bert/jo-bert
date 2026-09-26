@@ -1,12 +1,10 @@
 ```text
 Full-Stack Engineer • Slaying latency & legacy debt 
-Based in Kuala Lumpur, Malaysia 🇲🇾
 ```
 
 <p align="left">
   <a href="https://albertjonathan.dev/"><img src="https://img.shields.io/badge/Portfolio-albertjonathan.dev-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/albertjonathan3"><img src="https://img.shields.io/badge/LinkedIn-Albert%20Jonathan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:albert.jonathan23@gmail.com"><img src="https://img.shields.io/badge/Email-albert.jonathan23@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
