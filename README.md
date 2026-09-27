@@ -3,7 +3,7 @@
 Full-stack engineer building fast, reliable web products for fintech, banking, and regulated workflows.
 
 <p align="left">
-  <a href="https://personal-web.alps-finance-1.workers.dev/">
+  <a href="https://albertjonathan.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/albertjonathan3">
@@ -17,7 +17,7 @@ Full-stack engineer building fast, reliable web products for fintech, banking, a
   </a>
 </p>
 
-> I make complex, compliance-heavy software fast, clean, and actually pleasant to use.
+> I make complex, compliance-heavy software fast, clean, and actually pleasant to use. Expanding knowledge through open source contribution.
 
 **Currently:** Senior Analyst / acting frontend lead at Accenture Malaysia  
 **Focus:** frontend performance, legacy modernization, regulated product delivery, Laravel/Spring Boot backends, and lean high-speed web apps.
@@ -38,6 +38,7 @@ Full-stack engineer building fast, reliable web products for fintech, banking, a
 - Laravel or Spring Boot backend delivery
 - PostgreSQL/MariaDB schema design, caching, queues, and time-series data
 - Frontend leadership, code reviews, and mentoring engineers
+- Open Source contribution in JavaScript
 
 ## Featured Work
 
@@ -102,7 +103,7 @@ Once a year, I deliberately step away from enterprise patterns and build fast, s
 
 I’m open to selective conversations around senior full-stack, frontend leadership, and regulated product engineering roles.
 
-I’m especially interested in teams that value craft, speed, clear communication, and user outcomes — not just ticket throughput.
+I’m especially interested in teams that value craft, speed, clear communication, and user outcomes — not just ticket throughput. 
 
 Best way to reach me: [LinkedIn](https://linkedin.com/in/albertjonathan3).
 
